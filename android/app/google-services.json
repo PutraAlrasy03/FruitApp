@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "529893957948",
+    "project_id": "bopi-db7d2",
+    "storage_bucket": "bopi-db7d2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:529893957948:android:4d9c01625ce79d14b0fe39",
+        "android_client_info": {
+          "package_name": "com.example.aiqal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "529893957948-cu4scar857mvvb8f9vgmp32uumcfu1m1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJxMFMVraQN4-qkzI-IV2RlKjX0hCkDdA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "529893957948-cu4scar857mvvb8f9vgmp32uumcfu1m1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
