@@ -12,9 +12,10 @@ class StatusScreen extends StatelessWidget {
         appBar: MainAppBar(
           "Reservation Status",
         ),
-        body: SingleChildScrollView(
-            child: Padding(
-          padding: EdgeInsets.all(13),
+        body: Center(
+            child: SingleChildScrollView(
+                child: Padding(
+          padding: EdgeInsets.only(top: 40),
           child: Column(
             mainAxisAlignment: MainAxisAlignment.center,
             crossAxisAlignment: CrossAxisAlignment.center,
@@ -84,6 +85,6 @@ class StatusScreen extends StatelessWidget {
               ),
             ],
           ),
-        )));
+        ))));
   }
 }

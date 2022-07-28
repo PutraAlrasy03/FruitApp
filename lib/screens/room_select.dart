@@ -92,7 +92,7 @@ class _RoomSelectionScreenState extends State<RoomSelectionScreen> {
                           width: 80,
                         ),
                         Container(
-                          width: 50,
+                          width: 70,
                           child: FormBuilderTextField(
                             name: 'noOfSingleRoom',
                             controller: singleroomcontroller,
